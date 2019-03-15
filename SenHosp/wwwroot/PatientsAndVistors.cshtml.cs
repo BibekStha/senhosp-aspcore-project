@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace SenHosp.wwwroot
 {
-    public class PatientsAndVIsitorModel : PageModel
+    public class PatientsAndVistorsModel : PageModel
     {
         public void OnGet()
         {
